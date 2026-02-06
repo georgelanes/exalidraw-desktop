@@ -1,5 +1,7 @@
 # Excalidraw Desktop
 
+![Excalidraw Desktop](./excalidraw-desktop.png)
+
 Desktop client for Excalidraw with multi‑tab support, open/save `.excalidraw` projects, and a multilingual shell UI.
 
 ## Stack
@@ -91,4 +93,4 @@ This folder is copied from `node_modules/@excalidraw/excalidraw/dist/excalidraw-
 
 ## License
 
-MIT (same as Excalidraw).
+MIT
